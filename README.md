@@ -420,7 +420,7 @@ Swagger allows testing authentication, appointment creation, booking, cancellati
 
 GitHub: https://github.com/saiharshith123
 
-LinkedIn: https://www.linkedin.com/in/bachina-sai-harshith-b06a50208/
+LinkedIn: https://www.linkedin.com/in/bachina-sai-harshith/
 
 ## 📄 License
 
